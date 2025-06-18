@@ -1,0 +1,14 @@
+{
+  "name": "instructor",
+  "version": "1.0.0",
+  "description": "Connect solidity contact with frontend using web3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahidul Alam",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^4.0.3"
+  }
+}
